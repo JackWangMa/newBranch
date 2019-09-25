@@ -10,9 +10,18 @@ public class AppearTime {
          public MyClear(){}
     	public  void clear(){
     		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
+    		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
+    		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
+    		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
+    		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
     		
     	}
     	public  void clear2(){
+    		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
+    		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
+    		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
+    		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
+    		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
     		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
     		
     	}
