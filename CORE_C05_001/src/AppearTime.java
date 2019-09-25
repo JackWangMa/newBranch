@@ -9,7 +9,23 @@ public class AppearTime {
     public class MyClear implements IClear{
          public MyClear(){}
     	public  void clear(){
-    		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
+    		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
+    		
+    	}
+    	public  void clear2(){
+    		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
+    		
+    	}
+    	public  void clear3(){
+    		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
+    		
+    	}
+    	public  void clear4(){
+    		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
+    		
+    	}
+    	public  void clear5(){
+    		System.out.println("��ʲô������������ʵ�ֽӿڵ��࣡����");
     		
     	}
     	
