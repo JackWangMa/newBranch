@@ -1,21 +1,21 @@
 
 public class TestStudent {
-
+//è¿™ä¸ªæ˜¯ä¸€æ¬¡çš„ä¿®æ”¹ä»£ç 
 	public static void main(String[] args) {
 		student st=new student();
-		st.setName("»ÆÊÀÈÊ");
+		st.setName("é»„ä¸–ä»");
 		st.setAge(23);
-		st.setSex("ÄĞ");
+		st.setSex("ç”·");
 		//st.setSex("dfsaff");
 		st.setScore(23);
-		System.out.println("¸ÃÑ§ÉúµÄĞÅÏ¢£º");
-		System.out.println("ĞÕÃû£º"+st.getName()+"   "+"Äê¼Í£º"+st.getAge()+"  "+"ĞÔ±ğ£º"+st.isSex()+"   "+"·ÖÊı£º"+st.getScore());
+		System.out.println("è¯¥å­¦ç”Ÿçš„ä¿¡æ¯ï¼š");
+		System.out.println("å§“åï¼š"+st.getName()+"   "+"å¹´çºªï¼š"+st.getAge()+"  "+"æ€§åˆ«ï¼š"+st.isSex()+"   "+"åˆ†æ•°ï¼š"+st.getScore());
 		
 		
 		
-		student st1=new student("»ÆÊÀÈÊ",23,"ÄĞ",212);		
-		System.out.println("¸ÃÑ§ÉúµÄĞÅÏ¢£º");
-		System.out.println("ĞÕÃû£º"+st1.getName()+"   "+"Äê¼Í£º"+st1.getAge()+"  "+"ĞÔ±ğ£º"+st1.isSex()+"   "+"·ÖÊı£º"+st1.getScore());
+		student st1=new student("é»„ä¸–ä»",23,"ç”·",212);		
+		System.out.println("è¯¥å­¦ç”Ÿçš„ä¿¡æ¯ï¼š");
+		System.out.println("å§“åï¼š"+st1.getName()+"   "+"å¹´çºªï¼š"+st1.getAge()+"  "+"æ€§åˆ«ï¼š"+st1.isSex()+"   "+"åˆ†æ•°ï¼š"+st1.getScore());
 	}
 
 }
